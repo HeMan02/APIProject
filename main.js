@@ -200,6 +200,7 @@ Vue.component('product-review', {
     }
 })
 
+
 var app = new Vue({
     el: '#app',
     data: {
